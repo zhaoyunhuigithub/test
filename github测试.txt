@@ -1,0 +1,11 @@
+12321323
+
+git config --global https.proxy 地址:端口
+git config --global http.proxy 地址:端口
+
+git config --global --unset http.proxy
+
+$ ssh -T -vvv git@github.com
+
+
+
